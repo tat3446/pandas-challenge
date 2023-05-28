@@ -23,3 +23,9 @@ Had 3 sessions with AskBCS Learning Assistants and one TA Office hours session
 Joined two study groups with classmates outside of class hours, but limited discussion as we were all in different areas of assignment progress
 
 Assignment is incomplete - work still in progress to finish the rest.  Finally resolved the calculation tonight for # of students passing both math & reading
+
+
+*As of 5-28-23*
+Completed module 4 project to re-submit
+
+Had tutor session yesterday who helped me work through issue with per_school_summary dataframe that was caused by the way I originally coded School Type earlier in assignment.  Once that was resolved I was able to work through the rest fine.
